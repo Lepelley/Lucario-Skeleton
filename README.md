@@ -1,7 +1,7 @@
 # lucario-skeleton
  Lucario's Skeleton for creating websites
 
-To use Lucario framework as as dependency, you can install the skeleton (. for installing in your terminal directory): git clone https://github.com/Lepelley/lucario-skeleton.git .
+To use [Lucario framework](https://github.com/Lepelley/lucario) as as dependency, you can install the skeleton (. for installing in your terminal directory): git clone https://github.com/Lepelley/lucario-skeleton.git .
 
 Then you need to install the dependencies : composer install
 
