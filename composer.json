@@ -17,6 +17,9 @@
     }
   },
   "scripts": {
+    "post-install-cmd": [
+      "php -r \"copy('config/config.php.example', 'config/config.php');\""
+    ]
   },
   "require": {
     "lepelley/lucario": "^0",
